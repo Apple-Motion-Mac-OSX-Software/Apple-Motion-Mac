@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://d154hy2b5aa41t.cloudfront.net/course_covers/f7687d0b-8dbf-442d-aeba-e16c8b88a472/512x512/motion-5_3.jpg" width="500">
+<img src="https://d29rinwu2hi5i3.cloudfront.net/article_media/31838372-2fff-485e-a382-2394d1ee1ef4/pic_002.jpg" width="500">
 
 </td>
 
