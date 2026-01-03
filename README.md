@@ -9,7 +9,7 @@
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/cf/7e/15cf7ed7-1fba-ac9e-e0a3-e84e9fc2bb82/AppIcon-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/apple-motion">
+<a href="https://gnomik-gomik-apps.github.io/.github/apple-motion">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
